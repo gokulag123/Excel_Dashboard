@@ -22,7 +22,7 @@ Insights
 - - - - - - - 
 1)Maharastra bagged first place followed by Karnataka followed by UP in sales in the year 2022.
 
-2)Women have higher buying habit compared to men. Especially Woman in youth age-group (20-40) followed by (40-60).
+2)Women have higher buying habit compared to men Especially Woman in youth age-group (20-40) followed by (40-60).
 
 3)Maximum ammount of sales happened in the month of March for the entire year.
 
