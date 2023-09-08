@@ -21,9 +21,13 @@ Age>13,  "Teenage" .
 Insights
 - - - - - - - 
 1)Maharastra bagged first place followed by Karnataka followed by UP in sales in the year 2022.
+
 2)Women have higher buying habit compared to men. Especially Woman in youth age-group (20-40) followed by (40-60).
-3)Maximum ammount of sales happened in the month of March for the entire yera
+
+3)Maximum ammount of sales happened in the month of March for the entire year.
+
 4)Amazon is having higher share among the channels where as  Meesho & Others have only 4% almost.
+
 5)Among Dress types Set,Kurta are most sold.
 
 
